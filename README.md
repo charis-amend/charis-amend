@@ -9,7 +9,7 @@ const CharisPronouns = "she / her"
 
 let CurrentlyLearning = "a lot of code"
 
-const HerStory = [music industry, project manager, mobile app development, productmanager, innovation manager]
+const HerStory = ['music industry', 'project manager', 'mobile app development', 'productmanager', 'innovation manager']
 ```
 
 🎶 currently listening... 
