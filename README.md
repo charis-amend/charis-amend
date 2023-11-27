@@ -12,6 +12,12 @@ let CurrentlyLearning = "a lot of code"
 const HerStory = [music industry, project manager, mobile app development, productmanager, innovation manager]
 ```
 
+🎶 currently listening... 
+
+
+<img src = "https://spotify-github-profile.vercel.app/api/view?uid=charisamend&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" alt="spotifylistening" width="140" height="140"> 
+
+
 ### a quick intro 🚀  
 I have extensive experience working in both SaaS, mobile apps and start-up environments. 
 During my time as Product Owner for "Deutschrap Quiz," I led the development and launch of a mobile app. I gained valuable experience in the start-up landscape whilst being self-employed and working at IDAGIO GmbH and Bitfury Surround GmbH. I was involved in creating a SaaS tool for the blockchain music market, which required a deep understanding of the SaaS industry. Furthermore, my role as an Innovation Manager at Sony Music Entertainment, I was immersed in the start-up culture, working on several MVPs as a product manager for the organization's growth and development.
