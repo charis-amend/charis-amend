@@ -1,5 +1,13 @@
 # Hello, I'm Charis <img src = "https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" alt="waving-at-you" width="40" height="40">
 
+```js
+const CharisPronouns = "she / her"
+// maybe at some point let CharisPronouns
+
+let CurrentlyLearning = "a lot of code"
+
+const HerStory = [music industry, project manager, mobile app development, productmanager, innovation manager]
+```
 
 
 
