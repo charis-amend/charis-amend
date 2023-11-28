@@ -7,8 +7,10 @@
 const CharisPronouns = "she / her"
 // maybe at some point let CharisPronouns
 
-let CurrentlyLearning = "a lot of code"
-
+let CurrentlyLearning: 
+      what = 'full stack at Spiced Academy'
+      where = 'germany'
+      
 const HerStory = ['music industry', 'project manager', 'mobile app development', 'productmanager', 'innovation manager']
 ```
 
