@@ -1,3 +1,7 @@
+<img src = "https://github.com/charis-amend/charis-amend/blob/main/dory-nemo-palette-surgeonfish-disney-infinity-3-dory.jpg" alt="dory" width="100" height="105">
+
+
+
 # Hello, there! <img src = "https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" alt="waving-at-you" width="40" height="40">
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedinlogo" width="20" height="20"> <a href= "https://www.linkedin.com/in/charisamend/">Find me on LinkedIn 🔍</a>
