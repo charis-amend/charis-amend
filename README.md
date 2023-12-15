@@ -1,4 +1,4 @@
-<img src = "https://github.com/charis-amend/charis-amend/blob/main/dory-nemo-palette-surgeonfish-disney-infinity-3-dory.jpg" alt="dory" width="100" height="105">
+<img src = "https://github.com/charis-amend/charis-amend/blob/main/dory-nemo-palette-surgeonfish-disney-infinity-3-dory.png" alt="dory" width="100" height="105">
 
 
 
