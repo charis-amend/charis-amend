@@ -8,14 +8,8 @@
 
 ### Facts 📝
 ```js
-const CharisPronouns = "she / her"
-// maybe at some point let CharisPronouns
-
-let CurrentlyLearning: 
-      what = 'full stack at Spiced Academy'
-      where = 'germany'
-      
-const HerStory = ['music industry', 'project manager', 'mobile app development', 'productmanager', 'innovation manager']
+"she / her"
+['music industry', 'project manager', 'mobile app development', 'productmanager', 'innovation manager']
 ```
 
 🎶 currently listening... 
