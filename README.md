@@ -1,5 +1,8 @@
 # Hello, there! 
-### 🚀 Currently working on 2 projects 🚀
+### 🚀 Currently 🚀
+<p>working on 2 projects - release March 24</p>
+<p>currently learning Typescript</p>
+
 
 #### For the Recruiters: 👩🏼‍💻
 Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
