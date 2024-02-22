@@ -21,7 +21,7 @@ il Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-sq
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/NextJS-232323)
-![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![JEST](https://img.shields.io/badge/Jest-323330)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 ![ThreeJS](https://img.shields.io/badge/ThreeJS-96748)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
