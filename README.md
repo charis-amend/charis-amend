@@ -13,7 +13,6 @@ or...
 
 <br />
 People found me: <img src="https://profile-counter.glitch.me/{charis-amend}/count.svg" alt="charis-amend :: Visitor's Count" />
-il Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 ## 🚀 Technologies
 
