@@ -18,7 +18,7 @@
   
   <tr>
     <td>
-      <img src="https://github.com/charis-amend/Funny-Weather/blob/main/src/assets/cloud-app-icon.jpg" alt="weather-logo" width="100"/>
+      <img src="[https://github.com/charis-amend/Funny-Weather/blob/main/src/assets/cloud-app-icon.jpg](https://github.com/charis-amend/Funny-Weather/blob/main/src/assets/cloud-app-icon.png)" alt="weather-logo" width="100"/>
     </td>
     <td>
       <h3>Funny Weather</h3>
