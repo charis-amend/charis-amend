@@ -16,7 +16,7 @@
 </table>
 
 
-### For the Recruiters: 👩🏼‍💻
+## For the Recruiters 👩🏼‍💻
 Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
 Formerly, I created 11 successful product innovations, 2 mobile apps, 3 B2B SaaS. Coordinated teams and managed external vendors to save € 257k cost. Formed partnership to increase sales by 7%.
 <br />
