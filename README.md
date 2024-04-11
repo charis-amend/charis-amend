@@ -6,11 +6,35 @@
 ## My Portfolio 
 <table style="border-collapse: collapse; border-color: white;">
   <tr>
-    <td><img src="https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="70" height="70"/></td>
+    <td>
+      <img src="https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="100" />
+    </td>
     <td>
       <h3>Gratitude Jar</h3>
       <p>Browser-based web app to collect good things throughout the day which you are grateful for. And getting a random gratitude memory.</p>
       <a href="http://gratitude-jar0.vercel.app">Check it out</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="https://github.com/charis-amend/Funny-Weather/blob/main/src/assets/cloud-app-icon.jpg" alt="weather-logo" width="100"/>
+    </td>
+    <td>
+      <h3>Funny Weather</h3>
+      <p>Browser-based web app that brings joy to checking the forecast and to plan your activities accordingly! With humorous weather descriptions and delightful animations</p>
+      <a href="https://funny-weather.vercel.app">Check it out</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+<img width="100" alt="image" src="https://github.com/charis-amend/charis-amend/assets/152093726/e8cd965b-5538-49be-b15a-4efdeb94b41d">
+    </td>
+    <td>
+      <h3>Safely Fun Travels with the Tourio App</h3>
+      <p>Browser-based web app to collect traveling places, share with your friends and comment on the places you visited.</p>
+      <a href="https://charis-janosch-tourio-app.vercel.app">Check it out</a>
     </td>
   </tr>
 </table>
