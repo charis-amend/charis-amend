@@ -4,7 +4,7 @@
 <p>currently learning Typescript</p>
 
 ## My Portfolio 
-<table>
+<table style="border: 0; border-collapse: collapse;">
   <tr>
     <td><img src="https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="70" height="70"/></td>
     <td>
