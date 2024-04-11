@@ -4,9 +4,14 @@
 <p>currently learning Typescript</p>
 
 ## My Portfolio 
-<br/>
-<img src="https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="70" height="70"/>  
-**Gratitude Jar:** Browser-based web app to collect good things throughout the day which you are grateful for. And getting a random gratitude memory. [Check it out](http://gratitude-jar0.vercel.app)
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="70" height="70"/>  
+    <div>
+        <h3>Gratitude Jar</h3>
+        <p>Browser-based web app to collect good things throughout the day which you are grateful for. And getting a random gratitude memory.</p>
+        <a href="http://gratitude-jar0.vercel.app">Check it out</a>
+    </div>
+</div>
 
 ### For the Recruiters: 👩🏼‍💻
 Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
