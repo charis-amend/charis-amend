@@ -4,7 +4,7 @@
 <p>currently learning Typescript</p>
 
 ## My Portfolio 
-<table style="border: none;">
+<table style="border-collapse: collapse; border-color: white;">
   <tr>
     <td><img src="https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="70" height="70"/></td>
     <td>
@@ -14,6 +14,7 @@
     </td>
   </tr>
 </table>
+
 
 ### For the Recruiters: 👩🏼‍💻
 Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
