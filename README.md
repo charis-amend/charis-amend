@@ -1,7 +1,11 @@
 # Hello, there! 
 ### 🚀 Currently 🚀
-<p>working on 2 projects - release May 2024</p>
-<p>currently learning Typescript</p>
+working on 2 new projects: 
+<br/>
+- Website and organisational plattform/tool for the soccer club DFC Kreuzberg e.V.
+- The FOMO Therapist
+  
+... and learning Typescript
 
 ## My Portfolio 
 <table style="border-collapse: collapse; border-color: white;">
@@ -39,6 +43,7 @@
   </tr>
 </table>
 
+</br>
 
 ## For the Recruiters 👩🏼‍💻
 Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
