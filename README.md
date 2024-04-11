@@ -41,6 +41,17 @@ working on 2 new projects:
       <a href="https://charis-janosch-tourio-app.vercel.app">Check it out</a>
     </td>
   </tr>
+
+ <tr>
+    <td>
+<img width="100" alt="image" src="https://github.com/charis-amend/charis-amend/assets/152093726/e8cd965b-5538-49be-b15a-4efdeb94b41d">
+    </td>
+    <td>
+      <h3>Art Gallery App</h3>
+      <p>This browser-based web app is a platform designed for artists of all backgrounds to showcase their creative masterpieces.</p>
+      <a href="https://charis-janosch-tourio-app.vercel.app">Check it out</a>
+    </td>
+  </tr>
 </table>
 
 </br>
