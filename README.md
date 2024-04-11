@@ -39,7 +39,7 @@ People found me: <img src="https://profile-counter.glitch.me/{charis-amend}/coun
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
+![Vercel] (https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charis-amend&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
