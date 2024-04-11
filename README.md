@@ -3,8 +3,10 @@
 <p>working on 2 projects - release May 2024</p>
 <p>currently learning Typescript</p>
 
-### My Portfolio 
-<img src = "https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png"> <a href="http://gratitude-jar0.vercel.app"> Gratitude Jar </a>
+## My Portfolio 
+<br/>
+<img src = "https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="70" height="70" href="http://gratitude-jar0.vercel.app"> 
+#### Gratitude Jar 
 
 ### For the Recruiters: 👩🏼‍💻
 Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
