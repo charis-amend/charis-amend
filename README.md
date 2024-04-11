@@ -5,9 +5,7 @@
 
 ## My Portfolio 
 <br/>
-<img src = "https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="70" height="70" href="http://gratitude-jar0.vercel.app"> 
-Gratitude Jar 
-Browser-based web app to collect good things throughout the day which you are grateful for. And getting a random gratitude memory.
+<img src = "https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="70" height="70" href="http://gratitude-jar0.vercel.app">  Gratitude Jar </br> Browser-based web app to collect good things throughout the day which you are grateful for. And getting a random gratitude memory.
 
 ### For the Recruiters: 👩🏼‍💻
 Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
