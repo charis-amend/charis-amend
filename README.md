@@ -14,7 +14,9 @@ working on 2 new projects:
       <img src="https://github.com/charis-amend/Gratitude-Jar/blob/main/public/icon.png" alt="jar-logo" width="100" />
     </td>
     <td>
-      <h3>Gratitude Jar</h3>
+      <h3>
+        <a href="https://github.com/charis-amend/Gratitude-Jar/tree/main"> Gratitude Jar </a>
+      </h3>
       <p>Browser-based web app to collect good things throughout the day which you are grateful for. And getting a random gratitude memory.</p>
       <a href="http://gratitude-jar0.vercel.app">Check it out</a>
     </td>
@@ -38,7 +40,9 @@ working on 2 new projects:
 <img width="100" alt="image" src="https://github.com/charis-amend/charis-amend/assets/152093726/e8cd965b-5538-49be-b15a-4efdeb94b41d">
     </td>
     <td>
-      <h3>Safely Fun Travels with the Tourio App</h3>
+      <h3>
+        <a href="https://github.com/charis-amend/Safely-Fun-Travels">Safely Fun Travels with the Tourio App </a>
+      </h3>
       <p>Browser-based web app to collect traveling places, share with your friends and comment on the places you visited.</p>
       <a href="https://charis-janosch-tourio-app.vercel.app">Check it out</a>
     </td>
@@ -49,7 +53,9 @@ working on 2 new projects:
 <img width="100" alt="image" src="https://github.com/charis-amend/charis-amend/assets/152093726/fd9b6807-3fab-4e64-b1af-1cdc127f21c7">
     </td>
     <td>
-      <h3>Art Gallery App</h3>
+      <h3>
+        <a href="https://github.com/charis-amend/Art-Gallery"> Art Gallery App </a>
+      </h3>
       <p>This browser-based web app is a platform designed for artists of all backgrounds to showcase their creative masterpieces.</p>
       <a href="https://artsy-gallery-app.vercel.app/art-pieces">Check it out</a>
     </td>
