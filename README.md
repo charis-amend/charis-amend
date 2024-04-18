@@ -25,7 +25,7 @@ working on 2 new projects:
       <img src="https://github.com/charis-amend/Funny-Weather/blob/main/src/assets/cloud-app-icon.png" alt="weather-logo" width="100"/>
     </td>
     <td>
-      <h3>Funny Weather</h3>
+      <a href="https://github.com/charis-amend/Funny-Weather"><h3>Funny Weather</h3></a>
       <p>Browser-based web app that brings joy to checking the forecast and to plan your activities accordingly! With humorous weather descriptions and delightful animations</p>
       <a href="https://funny-weather.vercel.app">Check it out</a>
     </td>
