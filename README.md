@@ -4,8 +4,6 @@ working on 2 new projects:
 <br/>
 - Website and organisational plattform/tool for the soccer club DFC Kreuzberg e.V.
 - The FOMO Therapist
-  
-... and learning Typescript
 
 ## My Portfolio 
 <table style="border-collapse: collapse; border-color: white;">
@@ -76,6 +74,7 @@ People found me: <img src="https://profile-counter.glitch.me/{charis-amend}/coun
 
 ## 🚀 Technologies
 
+![Typescript]((https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
