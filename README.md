@@ -62,6 +62,31 @@ working on 2 new projects:
 
 </br>
 
+## 🚀 Technologies
+
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![GRAPHQL](https://img.shields.io/badge/-GraphQL-black?style=flat-sqaure&logo=graphql)
+<br />
+<br />
+![Node](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![NextJS](https://img.shields.io/badge/NextJS-232323)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![JEST](https://img.shields.io/badge/-JEST-black?style=flat-square&logo=jest)
+![WDIO](https://img.shields.io/badge/-WebdriverIO-black?style=flat-square&logo=webdriverio)
+![Allure](https://img.shields.io/badge/-Allure-black?style=flat-square&logo=allure)
+<br />
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![ThreeJS](https://img.shields.io/badge/ThreeJS-96748)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charis-amend&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## For the Recruiters 👩🏼‍💻
 Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
 Formerly, I created 11 successful product innovations, 2 mobile apps, 3 B2B SaaS. Coordinated teams and managed external vendors to save € 257k cost. Formed partnership to increase sales by 7%.
@@ -72,29 +97,6 @@ or...
 <br />
 People found me: <img src="https://profile-counter.glitch.me/{charis-amend}/count.svg" alt="charis-amend :: Visitor's Count" />
 
-## 🚀 Technologies
-
-![Typescript]((https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/NextJS-232323)
-![JEST](https://img.shields.io/badge/Jest-323330)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-96748)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charis-amend&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-
-🎶 currently listening... 
-
-
-<img src = "https://spotify-github-profile.vercel.app/api/view?uid=charisamend&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" alt="spotifylistening" width="140" height="140"> 
 
 
 
