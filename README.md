@@ -95,12 +95,12 @@ working on 2 new projects:
 
 ## For the Recruiters 👩🏼‍💻
 Full Stack Engineer with a background in product management and 10 years working experience. 
+
 Working now for 2 years as an engineer. 
+
 Main job is QA engineer, including test automation engineering and devops topics like IaC. 
 
-<br />
-or...
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedinlogo" width="17" height="17">    <a href= "https://www.linkedin.com/in/charisamend/">  🔍 Find me on LinkedIn </a>
+or... <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedinlogo" width="17" height="17">    <a href= "https://www.linkedin.com/in/charisamend/">  🔍 Find me on LinkedIn </a>
 
 <br />
 People found me: <img src="https://profile-counter.glitch.me/{charis-amend}/count.svg" alt="charis-amend :: Visitor's Count" />
