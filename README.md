@@ -5,6 +5,38 @@ working on 2 new projects:
 - Website and organisational platform/tool for the soccer club DFC Kreuzberg e.V.
 - The FOMO Therapist
 
+## 🚀 Technologies
+
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![GRAPHQL](https://img.shields.io/badge/-GraphQL-black?style=flat-sqaure&logo=graphql)
+<br />
+<br />
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GCloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)
+
+<br />
+<br />
+
+![Node](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![NextJS](https://img.shields.io/badge/NextJS-232323)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![JEST](https://img.shields.io/badge/-JEST-black?style=flat-square&logo=jest)
+![WDIO](https://img.shields.io/badge/-WebdriverIO-black?style=flat-square&logo=webdriverio)
+![Allure](https://img.shields.io/badge/-Allure-black?style=flat-square&logo=allure)
+<br />
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![ThreeJS](https://img.shields.io/badge/ThreeJS-96748)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charis-amend&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## My Portfolio 
 <table style="border-collapse: collapse; border-color: white;">
   <tr>
@@ -62,35 +94,7 @@ working on 2 new projects:
 
 </br>
 
-## 🚀 Technologies
 
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![GRAPHQL](https://img.shields.io/badge/-GraphQL-black?style=flat-sqaure&logo=graphql)
-<br />
-<br />
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![GCloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)
-
-<br />
-![Node](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![NextJS](https://img.shields.io/badge/NextJS-232323)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![JEST](https://img.shields.io/badge/-JEST-black?style=flat-square&logo=jest)
-![WDIO](https://img.shields.io/badge/-WebdriverIO-black?style=flat-square&logo=webdriverio)
-![Allure](https://img.shields.io/badge/-Allure-black?style=flat-square&logo=allure)
-<br />
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-96748)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charis-amend&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## For the Recruiters 👩🏼‍💻
 Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
