@@ -16,7 +16,7 @@ working on 2 new projects:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GCloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)
-
+<br />
 <br />
 ![Node](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![NextJS](https://img.shields.io/badge/NextJS-232323)
@@ -33,7 +33,6 @@ working on 2 new projects:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charis-amend&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## My Portfolio 
 <table style="border-collapse: collapse; border-color: white;">
@@ -95,8 +94,10 @@ working on 2 new projects:
 
 
 ## For the Recruiters 👩🏼‍💻
-Junior Full Stack Web Developer with a background in product management and 10 years working experience. Looking to leverage my combined knowledge of web development and product management to build concise code with automatised tests and business-oriented products. 
-Formerly, I created 11 successful product innovations, 2 mobile apps, 3 B2B SaaS. Coordinated teams and managed external vendors to save € 257k cost. Formed partnership to increase sales by 7%.
+Full Stack Engineer with a background in product management and 10 years working experience. 
+Working now for 2 years as an engineer. 
+Main job is QA engineer, including test automation engineering and devops topics like IaC. 
+
 <br />
 or...
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedinlogo" width="17" height="17">    <a href= "https://www.linkedin.com/in/charisamend/">  🔍 Find me on LinkedIn </a>
