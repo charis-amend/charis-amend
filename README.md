@@ -18,8 +18,6 @@ working on 2 new projects:
 ![GCloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)
 
 <br />
-<br />
-
 ![Node](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![NextJS](https://img.shields.io/badge/NextJS-232323)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
