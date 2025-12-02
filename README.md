@@ -2,7 +2,7 @@
 ### 🚀 Currently 🚀
 working on 2 new projects: 
 <br/>
-- Website and organisational plattform/tool for the soccer club DFC Kreuzberg e.V.
+- Website and organisational platform/tool for the soccer club DFC Kreuzberg e.V.
 - The FOMO Therapist
 
 ## My Portfolio 
