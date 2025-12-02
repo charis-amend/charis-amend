@@ -70,6 +70,11 @@ working on 2 new projects:
 ![GRAPHQL](https://img.shields.io/badge/-GraphQL-black?style=flat-sqaure&logo=graphql)
 <br />
 <br />
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GCloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)
+
+<br />
 ![Node](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![NextJS](https://img.shields.io/badge/NextJS-232323)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
